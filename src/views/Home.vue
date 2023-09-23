@@ -1,12 +1,14 @@
 <template>
   <div class="header stretch">
-    <span class="logo">get<span class="pry">linked</span></span>
+    <a href="/"
+      ><span class="logo">get<span class="pry">linked</span></span></a
+    >
     <div class="desktop links">
-      <a>Timeline</a>
-      <a>Overview</a>
-      <a>FAQs</a>
-      <a>Contact</a>
-      <button>Register</button>
+      <a href="/#timeline">Timeline</a>
+      <a href="/#overview">Overview</a>
+      <a href="/#faqs">FAQs</a>
+      <a href="/contact">Contact</a>
+      <a href="register"><button>Register</button></a>
     </div>
     <img id="open-menu-btn" class="mobile" src="/assets/img/menu.png" alt="" />
   </div>
@@ -34,7 +36,7 @@
       a chance to win a Big prize
     </div>
     <div class="br-2"></div>
-    <button>Register</button>
+    <a href="register"><button>Register</button></a>
     <div class="br-4"></div>
     <div class="timer">
       <span id="hours">00</span>
@@ -72,7 +74,7 @@
       a chance to win a Big prize
     </div>
     <div class="br-2"></div>
-    <button>Register</button>
+    <a href="register"><button>Register</button></a>
     <div class="br-2"></div>
     <div class="timer">
       <span id="hours">00</span>
@@ -86,7 +88,7 @@
     <img src="/assets/img/Hackathon_guy.png" alt="" />
   </div>
 
-  <div class="layout lr">
+  <div class="layout lr" id="overview">
     <img src="/assets/img/The_big_idea.png" alt="" />
     <div>
       <h2>
@@ -161,7 +163,7 @@
     </div>
   </div>
   <div class="hr"></div>
-  <div class="layout lr">
+  <div class="layout lr" id="faqs">
     <div>
       <h2>
         Frequently Ask<br />
@@ -212,7 +214,7 @@
   </div>
   <div class="hr"></div>
 
-  <div>
+  <div id="timeline">
     <h2>Timeline</h2>
     <span class="text plus mobile">
       Here is the breakdown of the time we anticipate using for the upcoming
@@ -456,27 +458,15 @@
     <div class="bordered sponsors">
       <div>
         <div class="img">
-          <img
-            class="la"
-            src="/assets/img/Liberty_colour.png"
-            alt=""
-          />
+          <img class="la" src="/assets/img/Liberty_colour.png" alt="" />
         </div>
         <div class="line-v"></div>
         <div class="img">
-          <img
-            class="lp"
-            src="/assets/img/Liberty_white.png"
-            alt=""
-          />
+          <img class="lp" src="/assets/img/Liberty_white.png" alt="" />
         </div>
         <div class="line-v"></div>
         <div class="img">
-          <img
-            class="ww"
-            src="/assets/img/Winwise.png"
-            alt=""
-          />
+          <img class="ww" src="/assets/img/Winwise.png" alt="" />
         </div>
       </div>
       <div class="h-lines">
@@ -568,10 +558,10 @@
 
     <div class="sp-b fd-c">
       <p class="plus pry">Useful Links</p>
-      <p>Overview</p>
-      <p>Timeline</p>
-      <p>FAQs</p>
-      <p>Register</p>
+      <a href="/#overview">Overview</a>
+      <a href="/#timeline">Timeline</a>
+      <a href="/#faqs">FAQs</a>
+      <a href="/register">Register</a>
       <span class="ali-c"
         ><span class="pry">Follow Us</span
         ><img id="social-icons" src="/assets/img/Social_media.png" alt=""
@@ -608,11 +598,11 @@
 
       <div class="ring-btn" id="close-menu-btn">X</div>
 
-      <a>Timeline</a>
-      <a>Overview</a>
-      <a>FAQs</a>
-      <a>Contact</a>
-      <button>Register</button>
+      <a href="/#timeline">Timeline</a>
+      <a href="/#overview">Overview</a>
+      <a href="/#faqs">FAQs</a>
+      <a href="/contact">Contact</a>
+      <a href="/register"><button>Register</button></a>
     </div>
   </div>
 </template>

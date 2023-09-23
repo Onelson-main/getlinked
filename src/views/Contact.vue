@@ -1,11 +1,11 @@
 <template>
-  <div class="header stretch">
-    <span class="logo">get<span class="pry">linked</span></span>
+  <div class="header stretch desktop">
+    <a href="/"><span class="logo">get<span class="pry">linked</span></span></a>
     <div class="desktop links">
-      <a>Timeline</a>
-      <a>Overview</a>
-      <a>FAQs</a>
-      <a>Contact</a>
+      <a href="/#timeline">Timeline</a>
+      <a href="/#overview">Overview</a>
+      <a href="/#faqs">FAQs</a>
+      <a href="/contact">Contact</a>
       <button>Register</button>
     </div>
     <img id="open-menu-btn" class="mobile" src="/assets/img/menu.png" alt="" />
@@ -50,7 +50,7 @@
 
   <div class="mobile contact-form">
     <div class="br-4"></div>
-    <a href="/"><div class="ring-btn" id="close-form-btn">&lt;</div></a>
+    <a href="/" class="back-btn"><div class="ring-btn" id="close-form-btn">&lt;</div></a>
     <div class="br-3"></div>
     <h1>Questions or need assistance? Let us know about it</h1>
     <div class="br-3"></div>

@@ -1,3 +1,12 @@
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    color: var(--c-foreground);
+    text-decoration: none;
+}
+
 .header {
     display: flex;
     justify-content: space-between;
@@ -452,7 +461,7 @@ img.icon {
         justify-content: center;
     }
 
-    .ring-btn {
+    .back-btn {
         align-self: flex-start;
     }
 

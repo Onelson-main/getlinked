@@ -8,7 +8,7 @@
       <a>Contact</a>
       <button>Register</button>
     </div>
-    <img id="open-menu-btn" class="mobile" src="assets/img/menu.png" alt="" />
+    <img id="open-menu-btn" class="mobile" src="/assets/img/menu.png" alt="" />
   </div>
   <div class="desktop">
     <div class="br-4"></div>
@@ -35,7 +35,7 @@
         <div class="br-3"></div>
         <span class="plus pry">Share on</span>
         <br />
-        <img class="social-icons" src="assets/img/Social media.png" alt="" />
+        <img class="social-icons" src="/assets/img/Social_media.png" alt="" />
       </div>
       <div class="contact-form is-desktop">
         <h1>Questions or need assistance? Let us know about it</h1>
@@ -65,7 +65,7 @@
     <button>Submit</button>
     <div class="br-4"></div>
     <div class="text pry tal-c">Share on</div>
-    <img id="social-icons" src="assets/img/Social media.png" alt="" />
+    <img id="social-icons" src="/assets/img/Social_media.png" alt="" />
   </div>
 </template>
 

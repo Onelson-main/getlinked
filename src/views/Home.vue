@@ -8,14 +8,14 @@
       <a>Contact</a>
       <button>Register</button>
     </div>
-    <img id="open-menu-btn" class="mobile" src="assets/img/menu.png" alt="" />
+    <img id="open-menu-btn" class="mobile" src="/assets/img/menu.png" alt="" />
   </div>
 
   <div class="hero hero-desktop desktop stretch">
     <div class="slogan">
       Igniting a Revolution in HR Innovation
       <br />
-      <img src="assets/img/Vector 4.png" alt="" />
+      <img src="/assets/img/Vector_4.png" alt="" />
     </div>
     <div class="br-4"></div>
     <div class="br-4"></div>
@@ -23,9 +23,9 @@
     <h1>getlinked Tech</h1>
     <h1>
       Hackathon <span class="pry">1.0</span>
-      <img src="assets/img/chain-9365116-7621444.png" alt="chain" />
-      <img src="assets/img/1f4a5.png" alt="spark" />
-      <img id="bulb" src="assets/img/Creative 1.png" alt="spark" />
+      <img src="/assets/img/chain-9365116-7621444.png" alt="chain" />
+      <img src="/assets/img/1f4a5.png" alt="spark" />
+      <img id="bulb" src="/assets/img/Creative_1.png" alt="spark" />
     </h1>
     <div class="br-2"></div>
     <div class="text">
@@ -44,14 +44,14 @@
       <span id="sec">00</span>
       <span class="unit">S</span>
     </div>
-    <img id="main-img" src="assets/img/Hackathon guy.png" alt="" />
+    <img id="main-img" src="/assets/img/Hackathon_guy.png" alt="" />
   </div>
 
   <div class="hero stretch mobile">
     <p class="slogan">
       Igniting a Revolution in HR Innovation<img
         id="v4"
-        src="assets/img/Vector 4.png"
+        src="/assets/img/Vector_4.png"
         alt=""
       />
     </p>
@@ -61,9 +61,9 @@
     <div class="br-4 desktop"></div>
     <h1>
       Hackathon <span class="pry">1.0</span>
-      <img src="assets/img/chain-9365116-7621444.png" alt="chain" />
-      <img src="assets/img/1f4a5.png" alt="spark" />
-      <img id="bulb" src="assets/img/Creative 1.png" alt="spark" />
+      <img src="/assets/img/chain-9365116-7621444.png" alt="chain" />
+      <img src="/assets/img/1f4a5.png" alt="spark" />
+      <img id="bulb" src="/assets/img/Creative_1.png" alt="spark" />
     </h1>
     <div class="br-4 desktop"></div>
     <div class="text">
@@ -83,11 +83,11 @@
       <span class="unit">S</span>
     </div>
     <div class="br-2"></div>
-    <img src="assets/img/Hackathon guy.png" alt="" />
+    <img src="/assets/img/Hackathon_guy.png" alt="" />
   </div>
 
   <div class="layout lr">
-    <img src="assets/img/The big idea.png" alt="" />
+    <img src="/assets/img/The_big_idea.png" alt="" />
     <div>
       <h2>
         Introduction to getlinked <br />
@@ -105,7 +105,7 @@
   </div>
   <div class="hr"></div>
   <div class="layout rl">
-    <img src="assets/img/lady on chair.png" alt="" />
+    <img src="/assets/img/lady_on_chair.png" alt="" />
     <div>
       <h2>
         Rules and<br />
@@ -123,7 +123,7 @@
   </div>
   <div class="hr"></div>
   <div class="layout lr">
-    <img src="assets/img/two people.png" alt="" />
+    <img src="/assets/img/two_people.png" alt="" />
     <div>
       <h2>
         Judging Criteria<br />
@@ -208,7 +208,7 @@
         </div>
       </span>
     </div>
-    <img src="assets/img/cwok_casual_21 1.png" alt="" />
+    <img src="/assets/img/cwok_casual_21_1.png" alt="" />
   </div>
   <div class="hr"></div>
 
@@ -408,11 +408,11 @@
   </div>
   <div class="br"></div>
   <div class="layout lr">
-    <img src="assets/img/9486889 1.png" alt="check-item" />
+    <img src="/assets/img/9486889_1.png" alt="check-item" />
     <div class="awards">
       <!-- 2ND -->
       <div class="preaward">
-        <img src="assets/img/silver_medal 1.png" alt="check-item" />
+        <img src="/assets/img/silver_medal_1.png" alt="check-item" />
 
         <div class="award">
           <span class="title">2nd</span>
@@ -422,7 +422,7 @@
       </div>
       <!-- 1ST -->
       <div class="preaward first">
-        <img src="assets/img/gold_medal 1.png" alt="check-item" />
+        <img src="/assets/img/gold_medal_1.png" alt="check-item" />
 
         <div class="award">
           <span class="title">1st</span>
@@ -432,7 +432,7 @@
       </div>
       <!-- 3RD -->
       <div class="preaward">
-        <img src="assets/img/bronze_medal 1.png" alt="check-item" />
+        <img src="/assets/img/bronze_medal_1.png" alt="check-item" />
 
         <div class="award">
           <span class="title">3rd</span>
@@ -458,7 +458,7 @@
         <div class="img">
           <img
             class="la"
-            src="assets/img/Liberty company logo white colour.png"
+            src="/assets/img/Liberty_colour.png"
             alt=""
           />
         </div>
@@ -466,7 +466,7 @@
         <div class="img">
           <img
             class="lp"
-            src="assets/img/Liberty company logo white.png"
+            src="/assets/img/Liberty_white.png"
             alt=""
           />
         </div>
@@ -474,7 +474,7 @@
         <div class="img">
           <img
             class="ww"
-            src="assets/img/Winwise logo White colour 1.png"
+            src="/assets/img/Winwise.png"
             alt=""
           />
         </div>
@@ -486,16 +486,16 @@
       </div>
       <div>
         <div class="img">
-          <img class="w" src="assets/img/wisper logo white.png" alt="" />
+          <img class="w" src="/assets/img/wisper.png" alt="" />
         </div>
 
         <div class="line-v"></div>
         <div class="img">
-          <img class="pb" src="assets/img/Paybox.png" alt="" />
+          <img class="pb" src="/assets/img/Paybox.png" alt="" />
         </div>
         <div class="line-v"></div>
         <div class="img">
-          <img class="vp" src="assets/img/Vizual Plus.png" alt="" />
+          <img class="vp" src="/assets/img/Vizual_Plus.png" alt="" />
         </div>
       </div>
     </div>
@@ -528,14 +528,14 @@
         <p class="pry plus bold al-l">Licensing Policy</p>
         <p class="plus bold al-l">Here are terms of our Standard License:</p>
         <div class="checked-item">
-          <img src="assets/img/list terms.png" alt="check-item" />
+          <img src="/assets/img/list_terms.png" alt="check-item" />
           <span class="text al-l">
             The Standard License grants you a non-exclusive right to navigate
             and register for our event
           </span>
         </div>
         <div class="checked-item">
-          <img src="assets/img/list terms.png" alt="check-item" />
+          <img src="/assets/img/list_terms.png" alt="check-item" />
           <span class="text al-l">
             You are licensed to use the item available at any free source sites,
             for your project developement
@@ -546,8 +546,8 @@
       </div>
     </div>
     <div class="images">
-      <img src="assets/img/08 1.png" alt="" />
-      <img class="back" src="assets/img/Vector.png" alt="" />
+      <img src="/assets/img/08_1.png" alt="" />
+      <img class="back" src="/assets/img/Vector.png" alt="" />
     </div>
   </div>
 
@@ -574,19 +574,19 @@
       <p>Register</p>
       <span class="ali-c"
         ><span class="pry">Follow Us</span
-        ><img id="social-icons" src="assets/img/Social media.png" alt=""
+        ><img id="social-icons" src="/assets/img/Social_media.png" alt=""
       /></span>
     </div>
 
     <div class="fd-c">
       <p class="plus pry">Contact Us</p>
       <span>
-        <img class="icon" src="assets/img/phone.png" alt="" />
+        <img class="icon" src="/assets/img/phone.png" alt="" />
         +234 679 81819
       </span>
       <div class="br-3"></div>
       <div class="contact-num">
-        <img class="icon" src="assets/img/location.png" alt="" />
+        <img class="icon" src="/assets/img/location.png" alt="" />
         <span>
           27,Alara Street <br />Yaba 100012 <br />
           Lagos State
@@ -604,7 +604,7 @@
       <!-- <div id="close-icon">
       <span>X</span>
     </div> -->
-      <!-- <img id="close" src="assets/img/close.png" alt="" /> -->
+      <!-- <img id="close" src="/assets/img/close.png" alt="" /> -->
 
       <div class="ring-btn" id="close-menu-btn">X</div>
 

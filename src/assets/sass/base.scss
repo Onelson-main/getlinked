@@ -186,7 +186,7 @@
 
     .back {
         position: relative;
-        bottom: 110%;
+        bottom: 60%;
         z-index: -1;
     }
 
@@ -241,7 +241,7 @@
         #bulb {
             position: relative;
             right: 50px;
-            bottom: 55px;
+            bottom: 80px;
         }
     }
 
@@ -293,6 +293,7 @@
 
     h1 {
         display: block;
+        margin: 0;
 
         #bulb {
             right: 235px;
@@ -355,10 +356,14 @@ img.icon {
 #sidebar {
     height: 100%;
     width: 100%;
-    display: flex;
+    display: none;
     background: var(--c-background);
 
     position: fixed;
+
+    @media only screen and (min-width: 768px) {
+        display: none;
+    }
 
     >div {
         margin: 50px;
